@@ -86,6 +86,7 @@ Website templates with HTML/CSS/Bootstrap, CodeIgniter applications, WordPress s
 
 | 🧠 Project | 📄 Description | 🔗 Link |
 |-----------|----------------|---------|
+| **Paramount Solar** | Renewable energy company site promoting solar power for a carbon-neutral future in Bangladesh | [paramountsolar.net](https://www.paramountsolar.net/) |
 | **ProHRFlow** | Multi-tenant HR management SaaS platform | [prohrflow.com](https://prohrflow.com/) |
 | **ShoJag** | Smart safety management system (Web + iOS + Android) | [shojag.com](https://shojag.com/) |
 | **DSK Mart** | Multi-vendor e-commerce marketplace | [dskmart.com](https://dskmart.com/) |
