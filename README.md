@@ -115,11 +115,10 @@ Website templates with HTML/CSS/Bootstrap, CodeIgniter applications, WordPress s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nurulpro&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurulpro&layout=compact&theme=default" height="165" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Nurulpro&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Nurulpro&layout=compact&theme=default" height="165" />
 </p>
 
----
 
 ## 🎓 Education
 
