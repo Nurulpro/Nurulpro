@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://github.com/Nurulpro"><img src="https://img.shields.io/badge/GitHub-Nurulpro-181717?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://gitlab.com/Nurulni"><img src="https://img.shields.io/badge/GitLab-Nurulni-FC6D26?style=flat&logo=gitlab&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nurul-islam-a0b8aa2bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:wedevnurul@gmail.com"><img src="https://img.shields.io/badge/Email-wedevnurul@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -52,7 +53,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 **DevOps & Cloud**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -103,7 +103,7 @@ Website templates with HTML/CSS/Bootstrap, CodeIgniter applications, WordPress s
 | **ShoJag** | Smart safety management system (Web + iOS + Android) | [shojag.com](https://shojag.com/) |
 | **DSK Mart** | Multi-vendor e-commerce marketplace | [dskmart.com](https://dskmart.com/) |
 | **BazarNao** | E-commerce platform with mobile app | [bazarnao.com](https://bazarnao.com/) |
-| **La-Rio** | Fine dining restaurant management system | [la-rio.com](https://lario.sa/) |
+| **Lario** | Fine dining restaurant management system | [lario.sa](https://lario.sa/) |
 | **Restuly** | Restaurant reservation system (CodeCanyon) | [restuly.com](https://restuly.com/) |
 | **Ritechs** | Learning management system (LMS) | [ritechs.org](https://ritechs.org/) |
 | **DSK E-Loan** | Digital loan management platform | [eloan.dskbangladesh.org](https://eloan.dskbangladesh.org/eloan) |
@@ -119,6 +119,9 @@ Website templates with HTML/CSS/Bootstrap, CodeIgniter applications, WordPress s
   <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Nurulpro&layout=compact&theme=default" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurulpro&theme=default" height="165" />
+</p>
 
 ## 🎓 Education
 
