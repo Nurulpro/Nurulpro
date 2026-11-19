@@ -137,7 +137,7 @@ Website templates with HTML/CSS/Bootstrap, CodeIgniter applications, WordPress s
 - 📧 Email: [wedevnurul@gmail.com](mailto:wedevnurul@gmail.com)
 - 🐙 GitHub: [github.com/Nurulpro](https://github.com/Nurulpro)
 - 🦊 GitLab: [gitlab.com/Nurulni](https://gitlab.com/Nurulni)
-- 🔗 LinkedIn: https://www.linkedin.com/in/nurul-islam-a0b8aa2bb
+- 🔗 LinkedIn: https://www.linkedin.com/in/devnurul/
 
 ---
 
